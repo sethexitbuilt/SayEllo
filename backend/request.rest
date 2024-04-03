@@ -1,0 +1,5 @@
+// Made by Seth Stitik Following the Chat Engine Tutorial //
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+{ "username": "seth" }
